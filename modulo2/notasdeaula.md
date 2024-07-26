@@ -40,3 +40,6 @@ salvar alteracoes feita no repositorio local
 é usado para atualizar seu repositório local com as alterações mais recentes de um repositório remoto. Ele é uma combinação de dois comandos: "git fetch" e "git merge".
 
 ### git remote -v
+
+### mkdir 
+criar uma pasta a partir do seu prompt de comando do windows
